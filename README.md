@@ -6,6 +6,8 @@ Brief description of the project idea: (1 paragraph)
 
 Team Member Names: Ashwin Anil, Salomon Lara, Jaden Nguyen
 
+FULL PROJECT VIDEO LINK: https://youtu.be/1lGxU_E5TcI
+
 
 /**********************************************************************
  *  Log all help, collaboration, and outside resources you've used for this project. List all external Python library names you used. Add links to the websites you have used as resources.
